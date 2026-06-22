@@ -15,9 +15,9 @@ Pickup 4WD.
 ## Key Components
 
 -   Engine: CBEA 2.0 TDI (Tunezilla Stage 2.5)
--   Transmission: [Your trans]
+-   Transmission: R151F
 -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 fuel system, Fast Forward wiring, Volvo
-    EPS, etc.
+    EPS, etc. or ALH psp
 
 
 # TDI Swap
@@ -27,7 +27,7 @@ Pickup 4WD.
 
 -   EGR
 
-    Link CAD file to block EGR port at manifold.
+    CAD [file](CAD/parts/CBEA-CJAA_EGR_BlockPlate.STEP) to block off EGR port on manifold (not yet tested).
     TODO - get a quote from Send Cut Send
 
 

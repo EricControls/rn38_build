@@ -26,7 +26,7 @@
 * TDI Swap
 *** CBEA/CJAA
 **** EGR
-     CAD [[file:CAD/parts/CBEA-CJAA_EGR_BlockPlate.STEP][file]] to block off EGR port on manifold (not yet tested).
+     CAD [[file:./CAD/parts/tdi/block_off_plates/][folder]] for block off EGR port on manifold (not yet tested).
      TODO - get a quote from Send Cut Send
 
 * Brakes

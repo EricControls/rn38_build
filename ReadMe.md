@@ -27,7 +27,7 @@ Pickup 4WD.
 
 -   EGR
 
-    CAD [file](CAD/parts/CBEA-CJAA_EGR_BlockPlate.STEP) to block off EGR port on manifold (not yet tested).
+    CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).
     TODO - get a quote from Send Cut Send
 
 

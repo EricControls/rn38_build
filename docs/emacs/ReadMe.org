@@ -1,0 +1,18 @@
+* Settings                                                  :noexport:ignore:
+  #+EXPORT_FILE_NAME: ../../ReadMe.md
+  #+OPTIONS: toc:nil num:nil ^init tex:t' H:1 date:nil creator:nil timestamp:nil
+  #+OPTIONS: author:nil
+
+** Export
+  #+BEGIN_SRC emacs-lisp :exports none  :results none :eval always
+    (org-md-export-to-markdown)
+  #+END_SRC
+
+* 1983 Toyota Pickup 4WD (RN38) Build
+** TDI Swap
+*** CBEA/CJAA
+**** EGR
+     CAD file to block EGR port at manifold.
+     TODO - get a quote from Send Cut Send
+
+** Brakes

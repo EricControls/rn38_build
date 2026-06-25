@@ -30,6 +30,11 @@ Pickup 4WD.
     CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).
     TODO - get a quote from Send Cut Send
 
+-   Turbo
+
+    Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the
+    process [here](./docs/common_rail/turbo/).
+
 
 # Brakes
 

@@ -1,0 +1,20 @@
+* Turbo
+  - Engine: CJAA 2.0 TDI
+  - Intended Use: Mockup/Spare parts
+
+  The factory turbo will used. Though the original orientation will not work. The exhaust exit
+  points in the wrong direction and to correct this the turbo must be flipped. All but 2 holes on
+  the manifold line up. The cold side wont be flipped so a clocking pin and new slot will need to be
+  created. These modifications can be done by a skilled and steady hand or milled on a machine.
+  [[file:./turbo_flip_mockup.jpeg][turbo flip mockup]]
+
+** Feed/Dump lines
+   The factory turbo feed line was bent to the new feed location. This is a no/low budget solution,
+   I have to careful as I've heard the lines do break. Braided custom lines are probably better
+   here. The dump tubes were shortened and a coolant line that tapers on the inner diameter fit
+   alright.
+
+   [[file:./turbo_feed_line_bent.jpeg][turbo feed line bent]]
+   [[file:./turbo_feed_line_bent2.jpeg][turbo feed line bent 2]]
+   [[file:./turbo_feed_line_tie.jpeg][turbo feed line tiedown]]
+   [[file:./turbo_dump_line.jpeg][turbo dump line]]

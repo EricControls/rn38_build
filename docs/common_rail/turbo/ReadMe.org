@@ -6,7 +6,9 @@
   points in the wrong direction and to correct this the turbo must be flipped. All but 2 holes on
   the manifold line up. The cold side wont be flipped so a clocking pin and new slot will need to be
   created. These modifications can be done by a skilled and steady hand or milled on a machine.
-  [[file:./turbo_flip_mockup.jpeg][turbo flip mockup]]
+
+  #+ATTR_HTML: :width 500
+  [[./turbo_flip_mockup.jpeg]]
 
 ** Feed/Dump lines
    The factory turbo feed line was bent to the new feed location. This is a no/low budget solution,
@@ -14,7 +16,8 @@
    here. The dump tubes were shortened and a coolant line that tapers on the inner diameter fit
    alright.
 
-   [[file:./turbo_feed_line_bent.jpeg][turbo feed line bent]]
-   [[file:./turbo_feed_line_bent2.jpeg][turbo feed line bent 2]]
-   [[file:./turbo_feed_line_tie.jpeg][turbo feed line tiedown]]
-   [[file:./turbo_dump_line.jpeg][turbo dump line]]
+   #+ATTR_HTML: :width 500
+   [[./turbo_feed_line_bent.jpeg]]
+   [[./turbo_feed_line_bent2.jpeg]]
+   [[./turbo_feed_line_tie.jpeg]]
+   [[./turbo_dump_line.jpeg]]

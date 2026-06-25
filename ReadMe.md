@@ -42,3 +42,8 @@ Pickup 4WD.
 -   1st generation Tacoma rotors
 -   1st generation Tacoma calipers
 
+
+# Third Party
+
+The SSP PDF is copyrighted material from Volkswagen and is included for reference only.
+

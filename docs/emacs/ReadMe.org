@@ -1,10 +1,10 @@
 * Settings                                                  :noexport:ignore:
   #+EXPORT_FILE_NAME: ../../ReadMe.md
-  #+OPTIONS: toc:nil num:nil ^init tex:t' H:1 date:nil creator:nil timestamp:nil
+  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil
   #+OPTIONS: author:nil
 
 ** Export
-  #+BEGIN_SRC emacs-lisp :exports none  :results none :eval always
+  #+BEGIN_SRC emacs-lisp :exports none  :results none
     (org-md-export-to-markdown)
   #+END_SRC
 
@@ -32,10 +32,21 @@
      Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the
      process [[file:./docs/common_rail/turbo/][here]].
 
+*** Electrical
+**** Interface Hardware
+     * [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man BTAC2]] to convert ECU tach signal from 5v squared signal to coil 'spike' signal.
+     * [[https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0][CAN2DASH]] or custom raspberry pi?
+     * others?
+
+**** Radiator
+***** Temp Control
+      * [[https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0][FFA Rad Fan Controller]] or [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man FDM2]]
+      * others?
+
 * Brakes
   * 86 Toyota pickup 4wd V6 hubs
   * 1st generation Tacoma rotors
   * 1st generation Tacoma calipers
 
 * Third Party
-  The SSP PDF is copyrighted material from Volkswagen and is included for reference only.
+  The SSP PDF is copyright material from Volkswagen and included for reference only.

@@ -27,7 +27,7 @@
 *** CBEA/CJAA
 **** EGR
      CAD [[file:./CAD/parts/tdi/block_off_plates/][folder]] for block off EGR port on manifold (not yet tested).
-     TODO - get a quote from Send Cut Send
+     TODO - get a quote from SendCutSend
 **** Turbo
      Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the
      process [[file:./docs/common_rail/turbo/][here]].

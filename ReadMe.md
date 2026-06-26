@@ -25,7 +25,7 @@ Pickup 4WD.
     -   EGR
     
         CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).
-        TODO - get a quote from Send Cut Send
+        TODO - get a quote from SendCutSend
     
     -   Turbo
     

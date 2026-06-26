@@ -12,9 +12,9 @@
 
 ** Feed/Dump lines
    The factory turbo feed line was bent to the new feed location. This is a no/low budget solution,
-   I have to careful as I've heard the lines do break. Braided custom lines are probably better
-   here. The dump tubes were shortened and a coolant line that tapers on the inner diameter fit
-   alright.
+   I have to be careful here as I've heard the lines could break. Braided custom lines are probably
+   a better solution here but this was done just to get keep the swap moving along. The dump tubes
+   were shortened and a coolant line that tapers on the inner diameter fit ok.
 
    #+ATTR_HTML: :width 500
    [[./turbo_feed_line_bent.jpeg]]

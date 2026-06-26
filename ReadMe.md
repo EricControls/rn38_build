@@ -1,8 +1,8 @@
 
 # 1983 Toyota Pickup 4WD (RN38) Build Log
 
-Comprehensive documentation of the full restoration and modification build of my 1983 Toyota
-Pickup 4WD.
+Comprehensive documentation of the full restoration and modification build of my 1983 Toyota  
+Pickup 4WD.  
 
 -   Project Overview
 
@@ -14,7 +14,7 @@ Pickup 4WD.
 
     -   Engine: CBEA 2.0 TDI (Tunezilla Stage 2.5)
     -   Transmission: R151F
-    -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 fuel system, Fast Forward wiring, Volvo
+    -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 fuel system, Fast Forward wiring, Volvo  
         EPS, etc. or ALH psp
 
 
@@ -24,13 +24,13 @@ Pickup 4WD.
 
     -   EGR
     
-        CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).
-        TODO - get a quote from SendCutSend
+        CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).  
+        TODO - get a quote from SendCutSend  
     
     -   Turbo
     
-        Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the
-        process [here](./docs/common_rail/turbo/).
+        Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the  
+        process [here](./docs/common_rail/turbo/).  
 
 -   Electrical
 
@@ -57,5 +57,5 @@ Pickup 4WD.
 
 # Third Party
 
-The SSP PDF is copyright material from Volkswagen and included for reference only.
+The SSP PDF is copyright material from Volkswagen and included for reference only.  
 

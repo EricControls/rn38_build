@@ -1,6 +1,6 @@
 * Settings                                                  :noexport:ignore:
   #+EXPORT_FILE_NAME: ../../ReadMe.md
-  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil
+  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t
   #+OPTIONS: author:nil
 
 ** Export

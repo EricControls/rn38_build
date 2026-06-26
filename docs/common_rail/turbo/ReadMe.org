@@ -1,3 +1,5 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
+
 * Turbo
   - Engine: CJAA 2.0 TDI
   - Intended Use: Mockup/Spare parts

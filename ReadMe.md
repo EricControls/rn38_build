@@ -23,7 +23,7 @@ Comprehensive documentation of the full restoration and modification of my 1983 
 
     -   EGR
     
-        CAD files for block-off plates on the intake manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
+        CAD files for block-off plates on the exhaust manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
         TODO: Get quote from SendCutSend  
     
     -   Turbo

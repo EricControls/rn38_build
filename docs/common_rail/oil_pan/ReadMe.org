@@ -20,8 +20,8 @@
 
 * Comparison Images
   #+ATTR_HTML: :width 500
-  [[./oil_pan_front.jpg]]
-  [[./oil_pan_front_aln.jpg]]
+  [[./oil_pan_front_stock.jpg]]
+  [[./oil_pan_front_hybrid.jpg]]
   [[./oil_pan_height1.jpg]]
   [[./oil_pan_height2.jpg]]
   [[./oil_pan_height3.jpg]]

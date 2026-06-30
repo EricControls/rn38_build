@@ -1,21 +1,20 @@
 
 # 1983 Toyota Pickup 4WD (RN38) Build Log
 
-Comprehensive documentation of the full restoration and modification build of my 1983 Toyota  
-Pickup 4WD.  
+Comprehensive documentation of the full restoration and modification of my 1983 Toyota Pickup 4WD.  
 
 -   Project Overview
 
     -   Vehicle: 1983 Toyota Pickup 4WD
-    -   Major Project: CBEA 2.0 TDI Engine Swap from (8P Audi)
-    -   Goals: Reliable daily driver, off-road capability, improved power and efficiency
+    -   Major Project: CBEA 2.0 TDI Engine Swap from 8P Audi
+    -   Goals: Reliable daily driver with solid off-road capability and better power/economy
 
 -   Key Components
 
     -   Engine: CBEA 2.0 TDI (Tunezilla Stage 2.5)
     -   Transmission: R151F
-    -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 fuel system, Fast Forward wiring, Volvo  
-        EPS, etc. or ALH psp
+    -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 + Fischer kit, Fast Forward wiring,  
+        Volvo EPS (or ALH PS pump), etc.
 
 
 # TDI Swap
@@ -24,43 +23,43 @@ Pickup 4WD.
 
     -   EGR
     
-        CAD [folder](./CAD/parts/tdi/block_off_plates/) for block off EGR port on manifold (not yet tested).  
-        TODO - get a quote from SendCutSend  
+        CAD files for block-off plates on the intake manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
+        TODO: Get quote from SendCutSend  
     
     -   Turbo
     
-        Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the  
-        process [here](./docs/common_rail/turbo/).  
+        Turbo flipped to route exhaust toward the rear. Process and notes [here](./docs/common_rail/turbo/).  
     
     -   Oil Pan
     
-        Oil pan comparisons. Even though they're just about the same height I'll be going with a hybrid  
-        oil pan over factory mainly for impact scenarios. See the images [here](./docs/common_rail/oil_pan/).  
-
--   Electrical
-
-    -   Interface Hardware
+        Comparison between factory cast aluminum and hybrid (aluminum upper + steel lower) pans.  The  
+        hybrid is the plan — similar height to stock but the steel bottom is far more forgiving on  
+        rocks and the front diff.  Images and notes [here](./docs/common_rail/oil_pan/).  
     
-        -   [Widget Man BTAC2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view) to convert ECU tach signal from 5v squared signal to coil 'spike' signal.
-        -   [CAN2DASH](https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0) or custom raspberry pi?
-        -   others?
+    -   Electrical
     
-    -   Radiator
-    
-        -   Temp Control
+        -   Interface Hardware
         
-            -   [FFA Rad Fan Controller](https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0) or [Widget Man FDM2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view)
-            -   others?
+            -   [Widget Man BTAC2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view) — converts ECU tach signal from 5V square wave to coil 'spike' signal.
+            -   [CAN2DASH](https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0) or custom Raspberry Pi setup?
+            -   Others?
+        
+        -   Radiator / Cooling
+        
+            -   Fan Control
+            
+                -   [Fast Forward Fan Controller](https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0) or [Widget Man FDM2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view)
+                -   Others?
 
 
 # Brakes
 
--   86 Toyota pickup 4wd V6 hubs
--   1st generation Tacoma rotors
--   1st generation Tacoma calipers
+-   86 Toyota Pickup 4WD V6 hubs
+-   1st Gen Tacoma rotors
+-   1st Gen Tacoma calipers
 
 
-# Third Party
+# Third Party Content
 
-The SSP PDF is copyright material from Volkswagen and included for reference only.  
+The SSP PDF is copyrighted material from Volkswagen and included here for reference only.  
 

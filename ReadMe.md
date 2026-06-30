@@ -31,6 +31,11 @@ Pickup 4WD.
     
         Turbo is flipped to allow exhaust exit to point towards the back of the vehicle. See the  
         process [here](./docs/common_rail/turbo/).  
+    
+    -   Oil Pan
+    
+        Oil pan comparisons. Even though they're just about the same height I'll be going with a hybrid  
+        oil pan over factory mainly for impact scenarios. See the images [here](./docs/common_rail/oil_pan/).  
 
 -   Electrical
 

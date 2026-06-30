@@ -1,9 +1,14 @@
+#+BEGIN_EXPORT markdown
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+#+END_EXPORT
+
 * Settings                                                  :noexport:ignore:
   #+EXPORT_FILE_NAME: ../../ReadMe.md
-  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t
+  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
   #+OPTIONS: author:nil
 
 ** Export
+
   #+BEGIN_SRC emacs-lisp :exports none  :results none
     (org-md-export-to-markdown)
   #+END_SRC

@@ -1,0 +1,62 @@
+#+BEGIN_EXPORT markdown
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+#+END_EXPORT
+
+* Settings                                                  :noexport:ignore:
+  #+EXPORT_FILE_NAME: ../../ReadMe.md
+  #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
+  #+OPTIONS: author:nil
+
+** Export
+
+  #+BEGIN_SRC emacs-lisp :exports none  :results none
+    (org-md-export-to-markdown)
+  #+END_SRC
+
+* 1983 Toyota Pickup 4WD (RN38) Build Log
+
+Comprehensive documentation of the full restoration and modification of my 1983 Toyota Pickup 4WD.
+
+** Project Overview
+   - Vehicle: 1983 Toyota Pickup 4WD
+   - Major Project: CBEA 2.0 TDI Engine Swap from 8P Audi
+   - Goals: Reliable daily driver with solid off-road capability and better power/economy
+
+** Key Components
+   - Engine: CBEA 2.0 TDI (Tunezilla Stage 2.5)
+   - Transmission: R151F
+   - Other Upgrades: TD Conversions mounts/adapter, BMW CP3 + Fischer kit, Fast Forward wiring,
+     Volvo EPS (or ALH PS pump), etc.
+
+* TDI Swap
+** CBEA/CJAA
+*** EGR
+     CAD files for block-off plates on the exhaust manifold [[file:./CAD/parts/tdi/block_off_plates/][here]] (not yet tested).
+     TODO: Get quote from SendCutSend
+
+*** Turbo
+     Turbo flipped to route exhaust toward the rear. Process and notes [[file:./docs/common_rail/turbo/][here]].
+
+*** Oil Pan
+     Comparison between factory cast aluminum and hybrid (aluminum upper + steel lower) pans.  The
+     hybrid is the plan — similar height to stock but the steel bottom is far more forgiving on
+     rocks and the front diff.  Images and notes [[file:./docs/common_rail/oil_pan/][here]].
+
+*** Electrical
+**** Interface Hardware
+     - [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man BTAC2]] — converts ECU tach signal from 5V square wave to coil 'spike' signal.
+     - [[https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0][CAN2DASH]] or custom Raspberry Pi setup?
+     - Others?
+
+**** Radiator / Cooling
+***** Fan Control
+      - [[https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0][Fast Forward Fan Controller]] or [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man FDM2]]
+      - Others?
+
+* Brakes
+  - 86 Toyota Pickup 4WD V6 hubs
+  - 1st Gen Tacoma rotors
+  - 1st Gen Tacoma calipers
+
+* Third Party Content
+  The SSP PDF is copyrighted material from Volkswagen and included here for reference only.

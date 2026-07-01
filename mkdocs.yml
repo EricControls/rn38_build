@@ -1,0 +1,37 @@
+site_name: RN38 Build - 1983 Toyota Pickup 4WD
+site_description: Full restoration and CBEA 2.0 TDI engine swap documentation
+site_author: EricControls
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - Engine Swap: tdi-swap.md
+  - Drivetrain: drivetrain.md
+  - Brakes & Suspension: brakes-suspension.md
+  - Cooling & Electrical: cooling-electrical.md
+  - Gallery: gallery.md
+  - Resources: resources.md
+
+plugins:
+  - search
+  - git-revision-date-localized
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true

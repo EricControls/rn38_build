@@ -2,8 +2,8 @@ name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
-  workflow_dispatch:   # Allows manual trigger
+    branches: [ main, feat/BuildAndDeploy ]   # Add your branch here
+  workflow_dispatch:   # Allows manual trigger from Actions tab
 
 permissions:
   contents: write

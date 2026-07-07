@@ -21,7 +21,7 @@ Comprehensive documentation of the full restoration and modification of my 1983 
 
 # TDI Swap
 
-https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
+<https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
 
 -   CBEA/CJAA
 

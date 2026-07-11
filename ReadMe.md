@@ -1,22 +1,22 @@
-<div align="center">  
-
+<div align="center">
 
 # 1983 Toyota Pickup 4WD (RN38) Build Log
 
-**A project you can build yourself.**  
+**A project you can build yourself.**
 
-Off-road · 3D printing · 3D scanning · Fabrication · TDI swap · DIY · CAN Bus · Raspberry Pi  
+Off-road · 3D printing · Raspberry Pi · Fabrication · TDI swap · DIY · CAN Bus · 3D scanning
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Status](https://img.shields.io/badge/status-early%20development-orange)
 
-</div>  
+<img src="https://github.com/user-attachments/assets/04ce58a7-5d9f-4790-bff2-ab509860f720" width="600" alt="RN38 Build Photo">
+
+</div>
 
 
 # What is this?
 
-Comprehensive documentation of the partial restoration and modification of my 1983 Toyota Pickup  
-4WD. She's a 50/50 trail rig and daily driver.  
+Comprehensive documentation of the partial restoration and modification of my 1983 Toyota Pickup 4WD. She's a 50/50 trail rig and daily driver.  
 
 -   Project Overview
 
@@ -32,6 +32,138 @@ Comprehensive documentation of the partial restoration and modification of my 19
         Volvo EPS (or ALH PS pump), etc.
 
 
+# Tasks & Progress
+
+This is my living todo list for the build. Items are roughly in priority order.  
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Area</th>
+<th scope="col" class="org-left">Task</th>
+<th scope="col" class="org-left">Status</th>
+<th scope="col" class="org-left">Notes</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">Engine / Mounts</td>
+<td class="org-left">Install TD Conversions mounts</td>
+<td class="org-left">In Progress</td>
+<td class="org-left">Mocking up in CAD</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Oil System</td>
+<td class="org-left">Hybrid pan + Balance Shaft Delete (BSD)</td>
+<td class="org-left">Started</td>
+<td class="org-left">pan installed. BSD will be started when CBEA is pulled</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Fuel System v1</td>
+<td class="org-left">CP4 + filter + lines routing</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Tank pickup, aux pump, and lines. Just to get the pickup running</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Fuel System v2</td>
+<td class="org-left">CP3 and Fischer kit install</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Knockout timing kit while here</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Cooling</td>
+<td class="org-left">Stock Radiator + Electric fans + piping</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">pusher and puller fans or duals? Aluminum piping, learn to tig it!</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Intake plumbing</td>
+<td class="org-left">Cold air intercooler + piping</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Mount in front of rad and push rad back, how much spacing?</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Electrical</td>
+<td class="org-left">Full Fast Forward harness install</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Start when engine is in bay to get harness lengths for FF</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Steering</td>
+<td class="org-left">Volvo EPS integration</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">CAN Bus from raspberry pi</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Brakes</td>
+<td class="org-left">Tacoma hub/rotor/caliper swap</td>
+<td class="org-left">Done</td>
+<td class="org-left">-</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CAN /Pi</td>
+<td class="org-left">Dual CAN Bridge + MicroPDM</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Partial hardware in house need to order MicroPDM</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Air Conditioning</td>
+<td class="org-left">Use CBEA ac compressor</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Compressor switches sides (was on right and now on left side)</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Fabrication</td>
+<td class="org-left">Customize brackets &amp; Mounts</td>
+<td class="org-left">Not Started</td>
+<td class="org-left">Mocking up in CAD</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Documentation</td>
+<td class="org-left">Update this build log</td>
+<td class="org-left">Ongoing</td>
+<td class="org-left">-</td>
+</tr>
+</tbody>
+</table>
+
+
 # TDI Swap
 
 <https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
@@ -42,7 +174,7 @@ Comprehensive documentation of the partial restoration and modification of my 19
     
         CAD files for block-off plates on the exhaust manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
         Quote as of 2026-07-07 (thanks Rafael!):  
-        ![img](./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg)  
+        <img src="./CAD/parts/tdi/block\_off\_plates/scs\_BlockPlate\_quote.jpg" alt="Description" width="300">  
     
     -   Turbo
     

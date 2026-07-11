@@ -1,32 +1,35 @@
-* Settings                                                  :noexport:ignore:
+* Settings :noexport:ignore:
   #+EXPORT_FILE_NAME: ../../ReadMe.md
   #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
   #+OPTIONS: author:nil
 
 ** Export
-
-  #+BEGIN_SRC emacs-lisp :exports none  :results none
+  #+BEGIN_SRC emacs-lisp :exports none :results none
     (org-md-export-to-markdown)
   #+END_SRC
 
-* start                                                              :ignore:
+* 1983 Toyota Pickup 4WD (RN38) Build Log :ignore:
+
+#+begin_export markdown
 <div align="center">
-* 1983 Toyota Pickup 4WD (RN38) Build Log
-  *A project you can build yourself.*
 
-  Off-road · 3D printing · Raspberry Pi · Fabrication · TDI swap · DIY · CAN Bus · 3D scanning
+# 1983 Toyota Pickup 4WD (RN38) Build Log
 
-#+BEGIN_EXPORT markdown
+**A project you can build yourself.**
+
+Off-road · 3D printing · Raspberry Pi · Fabrication · TDI swap · DIY · CAN Bus · 3D scanning
+
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Status](https://img.shields.io/badge/status-early%20development-orange)
-#+END_EXPORT
+
+<img src="https://github.com/user-attachments/assets/04ce58a7-5d9f-4790-bff2-ab509860f720" width="600" alt="RN38 Build Photo">
 
 </div>
+#+end_export
 
 * What is this?
 
-Comprehensive documentation of the partial restoration and modification of my 1983 Toyota Pickup
-4WD. She's a 50/50 trail rig and daily driver.
+Comprehensive documentation of the partial restoration and modification of my 1983 Toyota Pickup 4WD. She's a 50/50 trail rig and daily driver.
 
 ** Project Overview
    - Vehicle: 1983 Toyota Pickup 4WD
@@ -39,6 +42,26 @@ Comprehensive documentation of the partial restoration and modification of my 19
    - Other Upgrades: TD Conversions mounts/adapter, BMW CP3 + Fischer kit, Fast Forward wiring,
      Volvo EPS (or ALH PS pump), etc.
 
+* Tasks & Progress
+
+  This is my living todo list for the build. Items are roughly in priority order.
+
+  | Area             | Task                                    | Status      | Notes                                                              |
+  |------------------+-----------------------------------------+-------------+--------------------------------------------------------------------|
+  | Engine / Mounts  | Install TD Conversions mounts           | In Progress | Mocking up in CAD                                                  |
+  | Oil System       | Hybrid pan + Balance Shaft Delete (BSD) | Started     | pan installed. BSD will be started when CBEA is pulled             |
+  | Fuel System v1   | CP4 + filter + lines routing            | Not Started | Tank pickup, aux pump, and lines. Just to get the pickup running   |
+  | Fuel System v2   | CP3 and Fischer kit install             | Not Started | Knockout timing kit while here                                     |
+  | Cooling          | Stock Radiator + Electric fans + piping | Not Started | pusher and puller fans or duals? Aluminum piping, learn to tig it! |
+  | Intake plumbing  | Cold air intercooler + piping           | Not Started | Mount in front of rad and push rad back, how much spacing?         |
+  | Electrical       | Full Fast Forward harness install       | Not Started | Start when engine is in bay to get harness lengths for FF          |
+  | Steering         | Volvo EPS integration                   | Not Started | CAN Bus from raspberry pi                                          |
+  | Brakes           | Tacoma hub/rotor/caliper swap           | Done        | -                                                                  |
+  | CAN /Pi          | Dual CAN Bridge + MicroPDM              | Not Started | Partial hardware in house need to order MicroPDM                   |
+  | Air Conditioning | Use CBEA ac compressor                  | Not Started | Compressor switches sides (was on right and now on left side)      |
+  | Fabrication      | Customize brackets & Mounts             | Not Started | Mocking up in CAD                                                  |
+  | Documentation    | Update this build log                   | Ongoing     | -                                                                  |
+
 * TDI Swap
 
 https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
@@ -47,7 +70,7 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 *** EGR
      CAD files for block-off plates on the exhaust manifold [[file:./CAD/parts/tdi/block_off_plates/][here]] (not yet tested).
      Quote as of 2026-07-07 (thanks Rafael!):
-     [[./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg]]
+     <img src="./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg" alt="Description" width="300">
 
 *** Turbo
      Turbo flipped to route exhaust toward the rear. Process and notes [[file:./docs/common_rail/turbo/][here]].

@@ -1,9 +1,22 @@
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<div align="center">  
 
 
 # 1983 Toyota Pickup 4WD (RN38) Build Log
 
-Comprehensive documentation of the full restoration and modification of my 1983 Toyota Pickup 4WD.  
+**A project you can build yourself.**  
+
+Off-road · 3D printing · 3D scanning · Fabrication · TDI swap · DIY · CAN Bus · Raspberry Pi  
+
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Status](https://img.shields.io/badge/status-early%20development-orange)
+
+</div>  
+
+
+# What is this?
+
+Comprehensive documentation of the partial restoration and modification of my 1983 Toyota Pickup  
+4WD. She's a 50/50 trail rig and daily driver.  
 
 -   Project Overview
 
@@ -13,7 +26,7 @@ Comprehensive documentation of the full restoration and modification of my 1983 
 
 -   Key Components
 
-    -   Engine: CBEA 2.0 TDI (Tunezilla Stage 2.5)
+    -   Engine: CBEA 2.0 TDI (Stage 2.5)
     -   Transmission: R151F
     -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 + Fischer kit, Fast Forward wiring,  
         Volvo EPS (or ALH PS pump), etc.

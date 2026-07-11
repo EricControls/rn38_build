@@ -29,10 +29,14 @@ Comprehensive documentation of the full restoration and modification of my 1983 
      Volvo EPS (or ALH PS pump), etc.
 
 * TDI Swap
+
+https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
+
 ** CBEA/CJAA
 *** EGR
      CAD files for block-off plates on the exhaust manifold [[file:./CAD/parts/tdi/block_off_plates/][here]] (not yet tested).
-     TODO: Get quote from SendCutSend
+     Quote as of 2026-07-07 (thanks Rafael!):
+     [[./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg]]
 
 *** Turbo
      Turbo flipped to route exhaust toward the rear. Process and notes [[file:./docs/common_rail/turbo/][here]].

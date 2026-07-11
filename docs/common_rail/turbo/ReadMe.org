@@ -9,7 +9,7 @@
   the manifold line up. The cold side wont be flipped so a clocking pin and new slot will need to be
   created. These modifications can be done by a skilled and steady hand or milled on a machine.
 
-  #+ATTR_HTML: :width 500
+  #+ATTR_HTML: :width 1060
   [[./turbo_flip_mockup.jpeg]]
 
 ** Feed/Dump lines
@@ -18,7 +18,7 @@
    a better solution here but this was done just to get keep the swap moving along. The dump tubes
    were shortened and a coolant line that tapers on the inner diameter fit ok.
 
-   #+ATTR_HTML: :width 500
+   #+ATTR_HTML: :width 1060
    [[./turbo_feed_line_bent.jpeg]]
    [[./turbo_feed_line_bent2.jpeg]]
    [[./turbo_feed_line_tie.jpeg]]

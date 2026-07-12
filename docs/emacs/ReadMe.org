@@ -70,7 +70,9 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 *** EGR
      CAD files for block-off plates on the exhaust manifold [[file:./CAD/parts/tdi/block_off_plates/][here]] (not yet tested).
      Quote as of 2026-07-07 (thanks Rafael!):
-     <img src="./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg" alt="Description" width="300">
+     #+begin_export markdown
+       <img src="./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg" alt="Description" width="425">
+     #+end_export
 
 *** Turbo
      Turbo flipped to route exhaust toward the rear. Process and notes [[file:./docs/common_rail/turbo/][here]].

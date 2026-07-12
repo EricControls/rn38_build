@@ -174,7 +174,8 @@ This is my living todo list for the build. Items are roughly in priority order.
     
         CAD files for block-off plates on the exhaust manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
         Quote as of 2026-07-07 (thanks Rafael!):  
-        <img src="./CAD/parts/tdi/block\_off\_plates/scs\_BlockPlate\_quote.jpg" alt="Description" width="300">  
+        
+        <img src="./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg" alt="Description" width="425">
     
     -   Turbo
     

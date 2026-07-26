@@ -86,12 +86,21 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 **** Interface Hardware
      - [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man BTAC2]] — converts ECU tach signal from 5V square wave to coil 'spike' signal.
      - [[https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0][CAN2DASH]] or custom Raspberry Pi setup?
+     - [[https://github.com/racleave/spud-diy][SPUD]] a DIY board by RippleTech
      - Others?
 
 **** Radiator / Cooling
 ***** Fan Control
       - [[https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0][Fast Forward Fan Controller]] or [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man FDM2]]
       - Others?
+
+*** Vacuum Pump
+    Eliminate the mechanical pump? Only reason to eliminate it is because it interferes with the
+    firewall. I am looking at the Hella UP28/30 pump used on many modern vehicles. It will need a
+    reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.
+
+    #+ATTR_HTML: :width 320
+    [[./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg]]
 
 * Brakes
   - 86 Toyota Pickup 4WD V6 hubs

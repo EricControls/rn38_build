@@ -193,6 +193,7 @@ This is my living todo list for the build. Items are roughly in priority order.
         
             -   [Widget Man BTAC2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view) — converts ECU tach signal from 5V square wave to coil 'spike' signal.
             -   [CAN2DASH](https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0) or custom Raspberry Pi setup?
+            -   [SPUD](https://github.com/racleave/spud-diy) a DIY board by RippleTech
             -   Others?
         
         -   Radiator / Cooling
@@ -201,6 +202,14 @@ This is my living todo list for the build. Items are roughly in priority order.
             
                 -   [Fast Forward Fan Controller](https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0) or [Widget Man FDM2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view)
                 -   Others?
+    
+    -   Vacuum Pump
+    
+        Eliminate the mechanical pump? Only reason to eliminate it is because it interferes with the  
+        firewall. I am looking at the Hella UP28/30 pump used on many modern vehicles. It will need a  
+        reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.  
+        
+        ![img](./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg)  
 
 
 # Brakes

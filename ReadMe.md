@@ -209,7 +209,7 @@ This is my living todo list for the build. Items are roughly in priority order.
         firewall. I am looking at the Hella UP28/30 pump used on many modern vehicles. It will need a  
         reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.  
         
-        ![img](./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg)  
+        <img src="./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg" alt="Description" width="425">
 
 
 # Brakes

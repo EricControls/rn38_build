@@ -1,5 +1,6 @@
 * Settings :noexport:ignore:
   #+EXPORT_FILE_NAME: ../../ReadMe.md
+  #+STARTUP: hidestars logdone content inlineimages
   #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
   #+OPTIONS: author:nil
 
@@ -99,8 +100,9 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
     firewall. I am looking at the Hella UP28/30 pump used on many modern vehicles. It will need a
     reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.
 
-    #+ATTR_HTML: :width 320
-    [[./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg]]
+    #+begin_export markdown
+       <img src="./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg" alt="Description" width="425">
+    #+end_export
 
 * Brakes
   - 86 Toyota Pickup 4WD V6 hubs

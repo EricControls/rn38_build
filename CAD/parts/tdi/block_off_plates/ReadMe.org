@@ -1,0 +1,10 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
+
+* CAD Files for Common Rail
+** EGR
+   CBEA-CJAA_EGR_BlockPlate.DXF (not yet tested).
+   CBEA-CJAA_EGR_BlockPlate.STEP (not yet tested).
+
+   Quote as of 2026-07-07 (thanks Rafael!):
+   #+ATTR_HTML: :width 1060
+   [[././scs_BlockPlate_quote.jpg]]

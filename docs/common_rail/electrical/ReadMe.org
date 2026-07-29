@@ -1,0 +1,12 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
+
+* Interface Hardware
+  - [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man BTAC2]] — converts ECU tach signal from 5V square wave to coil 'spike' signal.
+  - [[https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0][CAN2DASH]] or custom Raspberry Pi setup?
+  - [[https://github.com/racleave/spud-diy][SPUD]] a DIY board by RippleTech
+  - Others?
+
+* Radiator / Cooling
+** Fan Control
+   - [[https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0][Fast Forward Fan Controller]] or [[https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view][Widget Man FDM2]]
+   - Others?

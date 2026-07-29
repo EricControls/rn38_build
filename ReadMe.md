@@ -170,42 +170,17 @@ This is my living todo list for the build. Items are roughly in priority order.
 
 -   CBEA/CJAA
 
-    -   EGR
+    -   [EGR](./CAD/parts/tdi/block_off_plates)
     
-        CAD files for block-off plates on the exhaust manifold [here](./CAD/parts/tdi/block_off_plates/) (not yet tested).  
-        Quote as of 2026-07-07 (thanks Rafael!):  
-        
-        <img src="./CAD/parts/tdi/block_off_plates/scs_BlockPlate_quote.jpg" alt="Description" width="425">
+    -   [Turbo](./docs/common_rail/turbo)
     
-    -   Turbo
+    -   [Oil Pan](./docs/common_rail/oil_pan)
     
-        Turbo flipped to route exhaust toward the rear. Process and notes [here](./docs/common_rail/turbo/).  
-    
-    -   Oil Pan
-    
-        Comparison between factory cast aluminum and hybrid (aluminum upper + steel lower) pans.  The  
-        hybrid is the plan — similar height to stock but the steel bottom is far more forgiving on  
-        rocks and the front diff.  Images and notes [here](./docs/common_rail/oil_pan/).  
-    
-    -   Electrical
-    
-        -   Interface Hardware
-        
-            -   [Widget Man BTAC2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view) — converts ECU tach signal from 5V square wave to coil 'spike' signal.
-            -   [CAN2DASH](https://docs.google.com/document/d/14yhZbFgCjSgXWqCNNCHgp3wLcAsCKACMEeC2nDtL2TU/edit?tab=t.0) or custom Raspberry Pi setup?
-            -   [SPUD](https://github.com/racleave/spud-diy) a DIY board by RippleTech
-            -   Others?
-        
-        -   Radiator / Cooling
-        
-            -   Fan Control
-            
-                -   [Fast Forward Fan Controller](https://docs.google.com/document/d/1CelB9Cl67-BNgkVXCFP4iwNl0KzHiYtnKfgr1wkl-Oo/edit?tab=t.0) or [Widget Man FDM2](https://drive.google.com/file/d/1sY_qYCQMJ6KPikZYNQ9rVLyK7spUNtxH/view)
-                -   Others?
+    -   [Electrical](./docs/common_rail/electrical)
     
     -   [Vacuum Pump](./docs/common_rail/vacuum_pump)
     
-    -   [Fuel System](./docs/common_rail/FuelSystem/)
+    -   [Fuel System](./docs/common_rail/fuel_system/)
 
 
 # Brakes

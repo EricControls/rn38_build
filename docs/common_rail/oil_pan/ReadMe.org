@@ -1,6 +1,9 @@
 #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
 
 * Hybrid Oil Pan vs Factory Cast Aluminum Oil Pan
+  Comparison between factory cast aluminum and hybrid (aluminum upper + steel lower) pans.  The
+  hybrid is the plan — similar height to stock but the steel bottom is far more forgiving on rocks
+  and the front diff.
 
 ** Factory CBEA Oil Pan (cast aluminum)
    - Deeper sump design

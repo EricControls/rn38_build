@@ -210,6 +210,8 @@ This is my living todo list for the build. Items are roughly in priority order.
         reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.  
         
         <img src="./docs/common_rail/vacuum_pump/ElectricVacuumPump.jpeg" alt="Description" width="425">
+    
+    -   [Fuel System](./docs/common_rail/FuelSystem/)
 
 
 # Brakes

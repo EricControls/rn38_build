@@ -1,0 +1,7 @@
+* Fuel System Diagram |WIP|
+  I considering eliminating the factory common rail fuel filter and go with an AirDog fuel pump. Not
+  sure yet but I'm laying down my thoughts now and I'll return to it later. Diagram may or may not
+  be correct.
+
+  #+ATTR_HTML: :width 1060
+   [[./RN38_TDI_FuelSystem.svg]]

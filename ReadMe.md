@@ -32,6 +32,32 @@ Comprehensive documentation of the partial restoration and modification of my 19
         Volvo EPS (or ALH PS pump), etc.
 
 
+# TDI Swap
+
+<https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
+
+-   CBEA/CJAA
+
+    -   [EGR](./CAD/parts/tdi/block_off_plates)
+    
+    -   [Turbo](./docs/common_rail/turbo)
+    
+    -   [Oil Pan](./docs/common_rail/oil_pan)
+    
+    -   [Electrical](./docs/common_rail/electrical)
+    
+    -   [Vacuum Pump](./docs/common_rail/vacuum_pump)
+    
+    -   [Fuel System](./docs/common_rail/fuel_system/)
+
+
+# Brakes
+
+-   86 Toyota Pickup 4WD V6 hubs
+-   1st Gen Tacoma rotors
+-   1st Gen Tacoma calipers
+
+
 # Tasks & Progress
 
 This is my living todo list for the build. Items are roughly in priority order.  
@@ -162,32 +188,6 @@ This is my living todo list for the build. Items are roughly in priority order.
 </tr>
 </tbody>
 </table>
-
-
-# TDI Swap
-
-<https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
-
--   CBEA/CJAA
-
-    -   [EGR](./CAD/parts/tdi/block_off_plates)
-    
-    -   [Turbo](./docs/common_rail/turbo)
-    
-    -   [Oil Pan](./docs/common_rail/oil_pan)
-    
-    -   [Electrical](./docs/common_rail/electrical)
-    
-    -   [Vacuum Pump](./docs/common_rail/vacuum_pump)
-    
-    -   [Fuel System](./docs/common_rail/fuel_system/)
-
-
-# Brakes
-
--   86 Toyota Pickup 4WD V6 hubs
--   1st Gen Tacoma rotors
--   1st Gen Tacoma calipers
 
 
 # Third Party Content

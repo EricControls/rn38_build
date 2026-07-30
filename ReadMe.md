@@ -51,6 +51,9 @@ Comprehensive documentation of the partial restoration and modification of my 19
     -   [Fuel System](./docs/common_rail/fuel_system/)
 
 
+# [Dashboard](./docs/dashboard)
+
+
 # Brakes
 
 -   86 Toyota Pickup 4WD V6 hubs

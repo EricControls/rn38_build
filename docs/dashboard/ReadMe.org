@@ -1,0 +1,45 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
+
+* Dashboard
+  Complementary digital display mounted in the center dash area of the RN38.
+
+  The goal is to keep the factory analogue instruments fully intact and functional, while adding a
+  modern but period-appropriate screen for extra information.
+
+** Hardware Layout
+   - Raspberry Pi (BigTreeTech or similar automotive-friendly board) — handles the display and user
+     interface
+   - Display (size and type still TBD)
+   - MPU-6050 or MPU-6000 for pitch and roll
+   - Spud controller (ESP32) — handles all CAN interfacing and I/O actuation
+   - MicroPDM (power distribution)
+   - Other supporting boards as needed
+
+   Communication between the Raspberry Pi and Spud will be over SPI or UART.  A heartbeat /
+   handshake system will be required so that if the Pi or screen fails, the Spud does not leave any
+   outputs stuck in an active state.
+
+   A rough chart of the overall hardware layout will be added here later.
+
+** Inclinometer Screen
+   Mimics the factory 1984–1989 Toyota 4Runner / Hilux SR5 clinometer (pitch & roll gauges).
+
+   - Pitch (fore-aft slope)
+   - Roll (side-to-side tilt)
+   - Driven by MPU-6050 / MPU-6000
+   - Visual style kept close to the original Toyota graphics (needle gauges)
+   - Sensor fusion will be used so the reading stays stable while moving
+
+** CAN
+   - All CAN interfacing is handled by the Spud (ESP32)
+   - Spud acts as the middle-board / bridge / I/O expander
+   - MicroPDM for power distribution and control
+   - Raspberry Pi only talks to the Spud (no direct CAN connection)
+
+** Status
+   Planning / early prototyping
+
+** Notes
+   - Factory dash remains fully analogue
+   - Pi screen is additive only
+   - Mounting, power, grounding, and software details will be documented here as they develop

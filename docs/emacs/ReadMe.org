@@ -23,7 +23,8 @@ Off-road · 3D printing · Raspberry Pi · Fabrication · TDI swap · DIY · CAN
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Status](https://img.shields.io/badge/status-early%20development-orange)
 
-<img src="https://github.com/user-attachments/assets/04ce58a7-5d9f-4790-bff2-ab509860f720" width="600" alt="RN38 Build Photo">
+<!-- image source: https://media.toyota.ca/en/albums/1983/1983-toyota-trucks.html -->
+<img src="https://github.com/user-attachments/assets/65ed5057-bf2d-4ba1-ba77-e49298aa0a2f" width="700" alt="RN38 Build Photo">
 
 </div>
 #+end_export

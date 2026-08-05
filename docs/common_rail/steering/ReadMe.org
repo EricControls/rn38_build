@@ -1,0 +1,27 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
+* Steering
+** EHPS Pump Options
+  The Audi 8P donor does not have a belt-driven hydraulic power steering pump on the engine, so a
+  traditional engine-driven pump is not available. This is the main reason an electric hydraulic
+  power steering pump (EHPS) solution is being considered for the swap.
+
+  Several EHPS are being considered. The primary selection criteria is pressure output (PSI) higher
+  capacity pumps from heavier vehicles (Dodge/Jeep platforms) are preferred because they can better
+  support larger tires and off-road use.
+
+*** Current Candidates
+    - Jeep JL/JT EHPS
+    - Dodge/Ram EHPS units (heavier-duty variants)
+    - Dodge Challenger/Charger
+    - Other high-output EHPS pumps from similar platforms (as research continues)
+
+*** Main Challenge: CAN Bus Control
+    All of these pumps require specific CAN messages (primarily vehicle speed, steering rate/angle,
+    others) to enable and modulate assist. Without the correct messages the pump will either refuse
+    to run or fall back to a limited default mode.
+
+    Best-case scenario: the required messages have already been reverse engineered and publicly
+    documented.
+
+    If not, reverse engineering is still feasible, but only practical when a complete donor vehicle
+    (or at least the full module set) is available for live CAN logging.

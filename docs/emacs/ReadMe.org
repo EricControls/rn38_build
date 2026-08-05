@@ -53,14 +53,19 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 *** [[file:./docs/common_rail/turbo][Turbo]]
 *** [[file:./docs/common_rail/oil_pan][Oil Pan]]
 *** [[file:./docs/common_rail/electrical][Electrical]]
-*** [[file:./docs/common_rail/vacuum_pump][Vacuum Pump]]
 *** [[file:./docs/common_rail/fuel_system/][Fuel System]]
-* [[file:./docs/dashboard][Dashboard]]
-* Brakes
+** Supplementary
+*** [[file:./docs/common_rail/vacuum_pump][Vacuum Pump]]
+*** [[file:./docs/dashboard][Dashboard Display]]
+*** [[file:./docs/common_rail/steering][Electro Hydro Power Steering (EHPS)]]
+* Toyota Pickup
+** Brakes
   - 86 Toyota Pickup 4WD V6 hubs
   - 1st Gen Tacoma rotors
   - 1st Gen Tacoma calipers
-
+** Drivetrain
+   - e-locker differential (phase ii)
+   - R151f transmission (phase ii)
 * Tasks & Progress
 
   This is my living todo list for the build. Items are roughly in priority order.

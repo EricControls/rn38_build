@@ -47,19 +47,29 @@ Comprehensive documentation of the partial restoration and modification of my 19
     
     -   [Electrical](./docs/common_rail/electrical)
     
-    -   [Vacuum Pump](./docs/common_rail/vacuum_pump)
-    
     -   [Fuel System](./docs/common_rail/fuel_system/)
 
+-   Supplementary
 
-# [Dashboard](./docs/dashboard)
+    -   [Vacuum Pump](./docs/common_rail/vacuum_pump)
+    
+    -   [Dashboard Display](./docs/dashboard)
+    
+    -   [Electro Hydro Power Steering (EHPS)](./docs/common_rail/steering)
 
 
-# Brakes
+# Toyota Pickup
 
--   86 Toyota Pickup 4WD V6 hubs
--   1st Gen Tacoma rotors
--   1st Gen Tacoma calipers
+-   Brakes
+
+    -   86 Toyota Pickup 4WD V6 hubs
+    -   1st Gen Tacoma rotors
+    -   1st Gen Tacoma calipers
+
+-   Drivetrain
+
+    -   e-locker differential (phase ii)
+    -   R151f transmission (phase ii)
 
 
 # Tasks & Progress

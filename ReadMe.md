@@ -27,15 +27,20 @@ Comprehensive documentation of the partial restoration and modification of my 19
 
 -   Key Components
 
-    -   Engine: CBEA 2.0 TDI (Stage 2.5)
+    -   Engine: CBEA 2.0 TDI (toooned!)
     -   Transmission: R151F
-    -   Other Upgrades: TD Conversions mounts/adapter, BMW CP3 + Fischer kit, Fast Forward wiring,  
-        Volvo EPS (or ALH PS pump), etc.
+    -   Other Upgrades: BMW CP3 HPFP, Fast Forward wiring, EHPS
+
+
+# CAD Work
+
+CAD - Solidworks For Makers  
+Scanner - Einscan Pro 2X 2020  
+
+<https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
 
 
 # TDI Swap
-
-<https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9>  
 
 -   CBEA/CJAA
 

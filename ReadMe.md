@@ -209,6 +209,11 @@ This is my living todo list for the build. Items are roughly in priority order.
 </table>
 
 
+# Socials
+
+[Instagram](https://www.instagram.com/kp61dude?igsh=b291eHM3bjZjZWVy&utm_source=qr)  
+
+
 # Third Party Content
 
 The SSP PDF is copyrighted material from Volkswagen and included here for reference only.  

@@ -87,6 +87,8 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
   | Air Conditioning | Use CBEA ac compressor                  | Not Started | Compressor switches sides (was on right and now on left side)      |
   | Fabrication      | Customize brackets & Mounts             | Not Started | Mocking up in CAD                                                  |
   | Documentation    | Update this build log                   | Ongoing     | -                                                                  |
+* Socials
+  [[https://www.instagram.com/kp61dude?igsh=b291eHM3bjZjZWVy&utm_source=qr][Instagram]]
 
 * Third Party Content
   The SSP PDF is copyrighted material from Volkswagen and included here for reference only.

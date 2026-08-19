@@ -107,7 +107,7 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Engine / Mounts</td>
 <td class="org-left">Install TD Conversions mounts</td>
 <td class="org-left">In Progress</td>
-<td class="org-left">version 1 complete, 3D printing to verify fit</td>
+<td class="org-left">3D printed RH mount, need to print LH</td>
 </tr>
 
 

@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 
   | Area             | Task                                    | Status      | Notes                                                              |
   |------------------+-----------------------------------------+-------------+--------------------------------------------------------------------|
-  | Engine / Mounts  | Install TD Conversions mounts           | In Progress | version 1 complete, 3D printing to verify fit                      |
+  | Engine / Mounts  | Install TD Conversions mounts           | In Progress | 3D printed RH mount, need to print LH                              |
   | Oil System       | Hybrid pan + Balance Shaft Delete (BSD) | Started     | pan installed. BSD will be started when CBEA is pulled             |
   | Fuel System v1   | CP4 + filter + lines routing            | Not Started | Tank pickup, aux pump, and lines. Just to get the pickup running   |
   | Fuel System v2   | CP3 and Fischer kit install             | Not Started | Knockout timing kit while here                                     |

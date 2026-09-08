@@ -107,9 +107,9 @@ This is my living todo list for the build. Items are roughly in priority order.
 <tbody>
 <tr>
 <td class="org-left">Engine / Mounts</td>
-<td class="org-left">Install TD Conversions mounts</td>
+<td class="org-left">Design and fabricate engine mounts</td>
 <td class="org-left">In Progress</td>
-<td class="org-left">3D printed RH mount, need to print LH</td>
+<td class="org-left">3D printed mounts and hot glued them together for mock up</td>
 </tr>
 
 
@@ -163,7 +163,7 @@ This is my living todo list for the build. Items are roughly in priority order.
 
 <tr>
 <td class="org-left">Steering</td>
-<td class="org-left">Volvo EPS integration</td>
+<td class="org-left">EPS integration</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">CAN Bus from raspberry pi</td>
 </tr>
@@ -187,7 +187,7 @@ This is my living todo list for the build. Items are roughly in priority order.
 
 <tr>
 <td class="org-left">Air Conditioning</td>
-<td class="org-left">Use CBEA ac compressor</td>
+<td class="org-left">Design AC system</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">Compressor switches sides (was on right and now on left side)</td>
 </tr>
@@ -214,6 +214,7 @@ This is my living todo list for the build. Items are roughly in priority order.
 # Socials
 
 [Instagram](https://www.instagram.com/kp61dude?igsh=b291eHM3bjZjZWVy&utm_source=qr)  
+[YouTube](https://www.youtube.com/@Kp61dude_)  
 
 
 # Third Party Content

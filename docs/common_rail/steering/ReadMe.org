@@ -25,3 +25,9 @@
 
     If not, reverse engineering is still feasible, but only practical when a complete donor vehicle
     (or at least the full module set) is available for live CAN logging.
+
+**** Resources
+     [[https://docs.google.com/spreadsheets/d/16ypMADKinBBnH1pOY4-gMmVRjeR85fYplpV12aCHJC4/edit?gid=303439516#gid=303439516][google sheet]]
+     [[https://github.com/darksotmoon/jlcan]]
+     [[https://github.com/rstellhorn/jeep-jl-powernet-scripts]]
+     [[./4mi-loop.zip][log zipped files]]

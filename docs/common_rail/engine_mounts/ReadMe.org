@@ -32,3 +32,14 @@
    | [[./05_EngineMount_cad_LH.png]] | [[./06_EngineMount_pic_LH.JPG]] |
    | [[./07_EngineMount_cad_LH.png]] | [[./08_EngineMount_pic_LH.JPG]] |
    |-----------------------------+-----------------------------|
+
+** In The Engine Bay
+   Initial fit up of the mockup engine in the bay. Mounts turned out great. The only thing I need to
+   change is add a slot to the engine side mount hole that attaches to the hydro mount to allow
+   frame width variance after talking with a 1st gen 4Runner owner.
+
+   #+ATTR_HTML: :width 800
+   [[./tdi_in_engine_bay_1.jpg]]
+   [[./tdi_in_engine_bay_2.jpg]]
+   [[./tdi_in_engine_bay_3.jpg]]
+   [[./tdi_in_engine_bay_4.jpg]]

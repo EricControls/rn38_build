@@ -109,7 +109,7 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Engine / Mounts</td>
 <td class="org-left">Design and fabricate engine mounts</td>
 <td class="org-left">In Progress</td>
-<td class="org-left">Engine fitted in the bay, mounts are ready for fab/weld</td>
+<td class="org-left">Installed starter to adapter and it hits the engine mount. Time to redesign</td>
 </tr>
 
 

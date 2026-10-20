@@ -80,21 +80,21 @@ https://github.com/user-attachments/assets/cdc6303a-8330-4c33-8ca4-62f4251baac9
 
   This is my living todo list for the build. Items are roughly in priority order.
 
-  | Area             | Task                                    | Status      | Notes                                                              |
-  |------------------+-----------------------------------------+-------------+--------------------------------------------------------------------|
-  | Engine / Mounts  | Design and fabricate engine mounts      | In Progress | Engine fitted in the bay, mounts are ready for fab/weld            |
-  | Oil System       | Hybrid pan + Balance Shaft Delete (BSD) | Started     | pan installed. BSD will be started when CBEA is pulled             |
-  | Fuel System v1   | CP4 + filter + lines routing            | Not Started | Tank pickup, aux pump, and lines. Just to get the pickup running   |
-  | Fuel System v2   | CP3 and Fischer kit install             | Not Started | Knockout timing kit while here                                     |
-  | Cooling          | Stock Radiator + Electric fans + piping | Not Started | pusher and puller fans or duals? Aluminum piping, learn to tig it! |
-  | Intake plumbing  | Cold air intercooler + piping           | Not Started | Mount in front of rad and push rad back, how much spacing?         |
-  | Electrical       | Full Fast Forward harness install       | Not Started | Start when engine is in bay to get harness lengths for FF          |
-  | Steering         | EPS integration                         | Not Started | CAN Bus from raspberry pi                                          |
-  | Brakes           | Tacoma hub/rotor/caliper swap           | Done        | -                                                                  |
-  | CAN /Pi          | Dual CAN Bridge + MicroPDM              | Not Started | Partial hardware in house need to order MicroPDM                   |
-  | Air Conditioning | Design AC system                        | Not Started | Compressor switches sides (was on right and now on left side)      |
-  | Fabrication      | Customize brackets & Mounts             | Not Started | Mocking up in CAD                                                  |
-  | Documentation    | Update this build log                   | Ongoing     | -                                                                  |
+  | Area             | Task                                    | Status      | Notes                                                                       |
+  |------------------+-----------------------------------------+-------------+-----------------------------------------------------------------------------|
+  | Engine / Mounts  | Design and fabricate engine mounts      | In Progress | Installed starter to adapter and it hits the engine mount. Time to redesign |
+  | Oil System       | Hybrid pan + Balance Shaft Delete (BSD) | Started     | pan installed. BSD will be started when CBEA is pulled                      |
+  | Fuel System v1   | CP4 + filter + lines routing            | Not Started | Tank pickup, aux pump, and lines. Just to get the pickup running            |
+  | Fuel System v2   | CP3 and Fischer kit install             | Not Started | Knockout timing kit while here                                              |
+  | Cooling          | Stock Radiator + Electric fans + piping | Not Started | pusher and puller fans or duals? Aluminum piping, learn to tig it!          |
+  | Intake plumbing  | Cold air intercooler + piping           | Not Started | Mount in front of rad and push rad back, how much spacing?                  |
+  | Electrical       | Full Fast Forward harness install       | Not Started | Start when engine is in bay to get harness lengths for FF                   |
+  | Steering         | EPS integration                         | Not Started | CAN Bus from raspberry pi                                                   |
+  | Brakes           | Tacoma hub/rotor/caliper swap           | Done        | -                                                                           |
+  | CAN /Pi          | Dual CAN Bridge + MicroPDM              | Not Started | Partial hardware in house need to order MicroPDM                            |
+  | Air Conditioning | Design AC system                        | Not Started | Compressor switches sides (was on right and now on left side)               |
+  | Fabrication      | Customize brackets & Mounts             | Not Started | Mocking up in CAD                                                           |
+  | Documentation    | Update this build log                   | Ongoing     | -                                                                           |
 * Socials
   [[https://www.instagram.com/kp61dude?igsh=b291eHM3bjZjZWVy&utm_source=qr][Instagram]]
   [[https://www.youtube.com/@Kp61dude_][YouTube]]

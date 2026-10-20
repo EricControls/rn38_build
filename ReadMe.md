@@ -62,7 +62,7 @@ Scanner - Einscan Pro 2X 2020
     
     -   [Dashboard Display](./docs/dashboard)
     
-    -   [Electro Hydro Power Steering (EHPS)](./docs/common_rail/steering)
+    -   [Steering](./docs/common_rail/steering)
 
 
 # Toyota Pickup

@@ -1,6 +1,7 @@
 #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
 * Steering
-  The Audi 8P donor does not have a belt-driven hydraulic power steering pump on the engine.
+  The Audi 8P donor does not have a belt-driven hydraulic power steering pump on the engine. I need
+  a solution for this swap.
 
 ** EHPS Pump Options
    Electric hydraulic power steering pump (EHPS) solution is being considered for the swap.  Several
@@ -27,14 +28,33 @@
 
 **** Resources
      [[https://docs.google.com/spreadsheets/d/16ypMADKinBBnH1pOY4-gMmVRjeR85fYplpV12aCHJC4/edit?gid=303439516#gid=303439516][google sheet]]
+
      [[https://github.com/darksotmoon/jlcan]]
+
      [[https://github.com/rstellhorn/jeep-jl-powernet-scripts]]
+
      [[./4mi-loop.zip][log zipped files]]
 
 ** Traditional Steering Pump
    I just learned that there are brackets with a provision for a belt driven pump. Though the
-   brackets are not available in the United States. I've been thinking of buying one.
+   brackets are not available in the United States. There are some south or the border in Mexico but
+   I can't find anyone that would ship. I tried eBay in the EU but had issues... twice!
 
    2010-2017 VW Amarok 03L903143J
    #+ATTR_HTML: :width 500
    [[./Bracket_03L903143J.jpg]]
+
+
+   Information about a second bracket was shared to me by a fellow FB /tdi truck swap/ member. This
+   bracket is also not available in any vehicle sold in the USA or even anywhere in North
+   America. So, I had to give eBay a third try, in a different area of Europe this time. Part is on
+   its way...
+
+   03L903143H came in various vehicles:
+   * Audi A4 (B8/8K)
+   * Audi A5 (8T/8F)
+   * Audi A6 (C6)
+   * Audi Q5 (8R)
+
+   #+ATTR_HTML: :width 500
+   [[./Bracket_03L903143H.jpg]]

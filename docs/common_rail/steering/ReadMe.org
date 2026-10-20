@@ -1,13 +1,12 @@
 #+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t ^:nil
 * Steering
-** EHPS Pump Options
-  The Audi 8P donor does not have a belt-driven hydraulic power steering pump on the engine, so a
-  traditional engine-driven pump is not available. This is the main reason an electric hydraulic
-  power steering pump (EHPS) solution is being considered for the swap.
+  The Audi 8P donor does not have a belt-driven hydraulic power steering pump on the engine.
 
-  Several EHPS are being considered. The primary selection criteria is pressure output (PSI) higher
-  capacity pumps from heavier vehicles (Dodge/Jeep platforms) are preferred because they can better
-  support larger tires and off-road use.
+** EHPS Pump Options
+   Electric hydraulic power steering pump (EHPS) solution is being considered for the swap.  Several
+   EHPS are being considered. The primary selection criteria is pressure output (PSI) higher
+   capacity pumps from heavier vehicles (Dodge/Jeep platforms) are preferred because they can better
+   support larger tires and off-road use.
 
 *** Current Candidates
     - Jeep JL/JT EHPS
@@ -31,3 +30,11 @@
      [[https://github.com/darksotmoon/jlcan]]
      [[https://github.com/rstellhorn/jeep-jl-powernet-scripts]]
      [[./4mi-loop.zip][log zipped files]]
+
+** Traditional Steering Pump
+   I just learned that there are brackets with a provision for a belt driven pump. Though the
+   brackets are not available in the United States. I've been thinking of buying one.
+
+   2010-2017 VW Amarok 03L903143J
+   #+ATTR_HTML: :width 500
+   [[./Bracket_03L903143J.jpg]]

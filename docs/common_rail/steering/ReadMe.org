@@ -45,12 +45,12 @@
    [[./Bracket_03L903143J.jpg]]
 
 
-   Information about a second bracket was shared to me by a fellow FB /tdi truck swap/ member. This
-   bracket is also not available in any vehicle sold in the USA or even anywhere in North
-   America. So, I had to give eBay a third try, in a different area of Europe this time. Part is on
-   its way...
+   Information about a second bracket was shared to me by a fellow FB /TDI swapped trucks/
+   member. This bracket is also not available in any vehicle sold in the USA or even anywhere in
+   North America. So, I had to give eBay a third try, in a different area of Europe this time. Part
+   is on its way...
 
-   03L903143H came in various vehicles:
+   Various vehicles came with a 03L903143H:
    * Audi A4 (B8/8K)
    * Audi A5 (8T/8F)
    * Audi A6 (C6)
@@ -58,3 +58,7 @@
 
    #+ATTR_HTML: :width 500
    [[./Bracket_03L903143H.jpg]]
+
+*** Pump
+    Pumps are available in the US. I'm looking at some from Audi Q5s and A4s 8K0145153F, but more
+    research is needed.

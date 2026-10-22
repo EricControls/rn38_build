@@ -5,5 +5,6 @@
   firewall. I am looking at the Hella UP28/30 pump used on many modern vehicles. It will need a
   reservoir tank to store vacuum and a vacuum switch to avoid running the pump continuously.
 
-  #+ATTR_HTML: :width 530
-  [[./ElectricVacuumPump.jpeg]]
+  #+BEGIN_HTML
+  <img src="./ElectricVacuumPump.jpeg" width="600">
+  #+END_HTML

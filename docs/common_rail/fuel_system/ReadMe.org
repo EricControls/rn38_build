@@ -3,8 +3,9 @@
   pump. Not sure yet but I'm laying down my thoughts now and I'll return to it later. Diagram may or
   may not be correct.
 
-  #+ATTR_HTML: :width 1060
-  [[./RN38_TDI_FuelSystem.svg]]
+  #+BEGIN_HTML
+  <img src="./RN38_TDI_FuelSystem.svg" width="600">
+  #+END_HTML
 
 * CP4 -> CP3 Conversion
   The factory CBEA/CJAA high-pressure fuel pump is a Bosch CP4. While it can produce higher peak
@@ -16,6 +17,6 @@
   failure mode. Converting to a CP3 (Fischer kit + BMW pump) significantly reduces the risk of a
   pump failure destroying the rest of the fuel system.
 
-
-  #+ATTR_HTML: :width 1060
-  [[./Cp3_Kit.jpg]]
+  #+BEGIN_HTML
+  <img src="./Cp3_Kit.jpg" width="600">
+  #+END_HTML

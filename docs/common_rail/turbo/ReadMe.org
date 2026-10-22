@@ -9,8 +9,9 @@
   the manifold line up. The cold side wont be flipped so a clocking pin and new slot will need to be
   created. These modifications can be done by a skilled and steady hand or milled on a machine.
 
-  #+ATTR_HTML: :width 1060
-  [[./turbo_flip_mockup.jpeg]]
+  #+BEGIN_HTML
+  <img src="./turbo_flip_mockup.jpeg" width="600">
+  #+END_HTML
 
 ** Feed/Dump lines
    The factory turbo feed line was bent to the new feed location. This is a no/low budget solution,
@@ -18,8 +19,9 @@
    a better solution here but this was done just to get keep the swap moving along. The dump tubes
    were shortened and a coolant line that tapers on the inner diameter fit ok.
 
-   #+ATTR_HTML: :width 1060
-   [[./turbo_feed_line_bent.jpeg]]
-   [[./turbo_feed_line_bent2.jpeg]]
-   [[./turbo_feed_line_tie.jpeg]]
-   [[./turbo_dump_line.jpeg]]
+   #+BEGIN_HTML
+   <img src="./turbo_feed_line_bent.jpeg" width="600">
+   <img src="./turbo_feed_line_bent2.jpeg" width="600">
+   <img src="./turbo_feed_line_tie.jpeg" width="600">
+   <img src="./turbo_dump_line.jpeg" width="600">
+   #+END_HTML

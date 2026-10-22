@@ -10,18 +10,21 @@
 
 
 ** Universal kit
-   #+ATTR_HTML: :width 800
-   [[./universal_mounts_chassis_side.png]]
-   [[./universal_mounts_engine_side.png]]
+   #+BEGIN_HTML
+   <img src="./universal_mounts_chassis_side.png" width="600">
+   <img src="./universal_mounts_engine_side.png" width="600">
+   #+END_HTML
 
 ** CAD
-   #+ATTR_HTML: :width 800
-   [[./screenshot_enginemount.png]]
+   #+BEGIN_HTML
+   <img src="./screenshot_enginemount.png" width="600">
+   #+END_HTML
 
 ** 3D Printed
-   #+ATTR_HTML: :width 800
-   [[./screenshot_enginemount_printed.png]]
-   [[./mount_engine_side_printed.jpg]]
+   #+begin_html
+   <img src="./screenshot_enginemount_printed.png" width="600">
+   <img src="./mount_engine_side_printed.jpg" width="600">
+   #+end_html
 
 ** Side By Side
    |-----------------------------+-----------------------------|
@@ -38,8 +41,9 @@
    change is add a slot to the engine side mount hole that attaches to the hydro mount to allow
    frame width variance after talking with a 1st gen 4Runner owner.
 
-   #+ATTR_HTML: :width 800
-   [[./tdi_in_engine_bay_1.jpg]]
-   [[./tdi_in_engine_bay_2.jpg]]
-   [[./tdi_in_engine_bay_3.jpg]]
-   [[./tdi_in_engine_bay_4.jpg]]
+   #+BEGIN_HTML
+   <img src="./tdi_in_engine_bay_1.jpg" width="600">
+   <img src="./tdi_in_engine_bay_2.jpg" width="600">
+   <img src="./tdi_in_engine_bay_3.jpg" width="600">
+   <img src="./tdi_in_engine_bay_4.jpg" width="600">
+   #+END_HTML

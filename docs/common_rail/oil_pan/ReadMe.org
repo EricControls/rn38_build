@@ -22,11 +22,12 @@
   undercarriage hazards common in a 4WD truck.
 
 * Comparison Images
-  #+ATTR_HTML: :width 500
-  [[./oil_pan_front_stock.jpg]]
-  [[./oil_pan_front_hybrid.jpg]]
-  [[./oil_pan_height1.jpg]]
-  [[./oil_pan_height2.jpg]]
-  [[./oil_pan_height3.jpg]]
-  [[./oil_pan_iso.jpg]]
-  [[./oil_pan_left.jpg]]
+  #+BEGIN_HTML
+  <img src="./oil_pan_front_stock.jpg" width="600">
+  <img src="./oil_pan_front_hybrid.jpg" width="600">
+  <img src="./oil_pan_height1.jpg" width="600">
+  <img src="./oil_pan_height2.jpg" width="600">
+  <img src="./oil_pan_height3.jpg" width="600">
+  <img src="./oil_pan_iso.jpg" width="600">
+  <img src="./oil_pan_left.jpg" width="600">
+  #+END_HTML

@@ -41,8 +41,9 @@
    I can't find anyone that would ship. I tried eBay in the EU but had issues... twice!
 
    2010-2017 VW Amarok 03L903143J
-   #+ATTR_HTML: :width 500
-   [[./Bracket_03L903143J.jpg]]
+   #+BEGIN_HTML
+    <img src="./Bracket_03L903143J.jpg" width="600">
+    #+END_HTML
 
 
    Information about a second bracket was shared to me by a fellow FB /TDI swapped trucks/
@@ -55,9 +56,23 @@
    * Audi A5 (8T/8F)
    * Audi A6 (C6)
    * Audi Q5 (8R)
+   #+BEGIN_HTML
+    <img src="./Bracket_03L903143H.jpg" width="600">
+    #+END_HTML
 
-   #+ATTR_HTML: :width 500
-   [[./Bracket_03L903143H.jpg]]
+*** My Install
+    Ended up actually receiving shipment of a 03L903143H from eBay. After a quick install everything
+    bolts up like factory. A couple bolts will need to be used in other holes and 3 new bolts will
+    be needed as the CJAA bolts weren't long enough. Here's the bracket with all the accessories
+    mounted on my test mule CJAA engine (don't mind the scanning spray and target dots).
+
+    #+BEGIN_HTML
+    <img src="./Bracket_03L903143H_on_table.jpg" width="600">
+    <img src="./Bracket_03L903143H_bracket_installed_1.jpg" width="600">
+    <img src="./Bracket_03L903143H_bracket_installed_2.png" width="600">
+    <img src="./Bracket_03L903143H_bracket_installed_3.png" width="600">
+    <img src="./Bracket_03L903143H_bracket_installed_4.png" width="600">
+    #+END_HTML
 
 *** Pump
     Pumps are available in the US. I'm looking at some from Audi Q5s and A4s 8K0145153F, but more

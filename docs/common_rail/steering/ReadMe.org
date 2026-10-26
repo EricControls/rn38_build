@@ -72,8 +72,17 @@
     <img src="./Bracket_03L903143H_bracket_installed_2.png" width="600">
     <img src="./Bracket_03L903143H_bracket_installed_3.png" width="600">
     <img src="./Bracket_03L903143H_bracket_installed_4.png" width="600">
+    <img src="./Bracket_03L903143H_bracket_installed_5.png" width="600">
+    <img src="./Bracket_03L903143H_serpentine_belt.jpg" width="400">
     #+END_HTML
 
 *** Pump
     Pumps are available in the US. I'm looking at some from Audi Q5s and A4s 8K0145153F, but more
     research is needed.
+
+    After some research (not a lot) I found that almost any pump fits the ears on the bracket. Ended
+    up going with a 2006 Audi A4 gasoline engine power steering pump (125mm pulley) mainly due to
+    being able to remove it without having to remove the pulley at the junkyard as I forgot my set
+    of triple squares otherwise I would've gone with a 2007 Volkswagen Beetle which has a smaller
+    pulley than the A4 pump. Both have a banjo fitting for the high pressure line which is desired
+    for ease of installation.

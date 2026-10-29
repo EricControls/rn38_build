@@ -86,3 +86,25 @@
     of triple squares otherwise I would've gone with a 2007 Volkswagen Beetle which has a smaller
     pulley than the A4 pump. Both have a banjo fitting for the high pressure line which is desired
     for ease of installation.
+
+*** Results
+    The 03L903143H bracket and accessories (including the 2006 A4 power steering pump) mounted and
+    the belt length was sorted. The problem showed up when the engine was checked in the 1983 Toyota
+    Pickup engine bay.  Using the 3D scan CAD models, the AC compressor sits roughly 1" into the
+    frame rail and the serpentine belt path also passes through the frame. There is no practical way
+    to clear the rail with this bracket and the AC compressor in its stock location on the H ear.
+    The H bracket itself is usable on the CBEA/CJAA, but it does not package in the RN38 engine bay
+    without major frame modification. The Toyota pickup frame is simply too narrow at 23.25 inches
+    wide.
+
+    #+BEGIN_HTML
+    <img src="./Belt_on_frame.jpg" width="600">
+    <img src="./Pump_on_frame.jpg" width="600">
+    #+END_HTML
+
+    Pretty bummed about it not working. I was really happy to see the bracket and all its
+    accessories mounted and nothing about it was janky. Back to an electric pump.
+
+    #+BEGIN_HTML
+    <img src="./EHPS_back_on_the_menu.png" width="600">
+    #+END_HTML

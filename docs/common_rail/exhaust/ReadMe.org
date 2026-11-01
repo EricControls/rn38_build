@@ -1,0 +1,16 @@
+#+OPTIONS: toc:nil num:nil H:1 date:nil creator:nil timestamp:nil \n:t author:nil
+
+* Exhaust
+  I am in the middle of wrapping up engine mounts. In order to finalize the mounts I need an idea of
+  how the exhaust tubing will need to flow. Here is the very first pass at an exhaust. A couple
+  lines (brake/clutch) will need to be bent out of the way to make space. Shouldn't be too bad.
+
+  #+BEGIN_HTML
+  <img src="./EngineBay_exhaust_01.png" width="600">
+  #+END_HTML
+
+  Exhaust will be 3 inch tubing.
+  #+BEGIN_HTML
+  <img src="./ExhaustFlangeCJAA_inCad.png" width="600">
+  <img src="./ExhaustFlangeCJAA.png" width="600">
+  #+END_HTML

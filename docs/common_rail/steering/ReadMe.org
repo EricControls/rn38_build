@@ -27,6 +27,8 @@
     (or at least the full module set) is available for live CAN logging.
 
 **** Resources
+     [[https://reformmotorsports.com/][Reform Motorsports]]
+
      [[https://docs.google.com/spreadsheets/d/16ypMADKinBBnH1pOY4-gMmVRjeR85fYplpV12aCHJC4/edit?gid=303439516#gid=303439516][google sheet]]
 
      [[https://github.com/darksotmoon/jlcan]]

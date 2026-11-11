@@ -107,13 +107,15 @@ This is my living todo list for the build. Items are roughly in priority order.
 <th scope="col" class="org-left">Notes</th>
 </tr>
 </thead>
+
 <tbody>
 <tr>
 <td class="org-left">Engine / Mounts</td>
 <td class="org-left">Design and fabricate engine mounts</td>
 <td class="org-left">In Progress</td>
-<td class="org-left">Mount design done. Files sent out to laser. Waiting for parts&#x2026;</td>
+<td class="org-left">Right side 'engine side' mount done!!! Doing left side 'engine side' next</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Exhaust</td>
@@ -122,12 +124,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Version 1 done to get the mount out to laser</td>
 </tr>
 
+
 <tr>
 <td class="org-left">Oil System</td>
 <td class="org-left">Hybrid pan + Balance Shaft Delete (BSD)</td>
 <td class="org-left">Started</td>
 <td class="org-left">pan installed. BSD will be started when CBEA is pulled</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Fuel System v1</td>
@@ -136,12 +140,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Tank pickup, aux pump, and lines. Just to get the pickup running</td>
 </tr>
 
+
 <tr>
 <td class="org-left">Fuel System v2</td>
 <td class="org-left">CP3 and Fischer kit install</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">Knockout timing kit while here</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Cooling</td>
@@ -150,12 +156,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">pusher and puller fans or duals? Aluminum piping, learn to tig it!</td>
 </tr>
 
+
 <tr>
 <td class="org-left">Intake plumbing</td>
 <td class="org-left">Cold air intercooler + piping</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">Mount in front of rad and push rad back, how much spacing?</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Electrical</td>
@@ -164,12 +172,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Start when engine is in bay to get harness lengths for FF</td>
 </tr>
 
+
 <tr>
 <td class="org-left">Steering</td>
 <td class="org-left">EPS integration</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">CAN Bus from raspberry pi</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Brakes</td>
@@ -178,12 +188,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">-</td>
 </tr>
 
+
 <tr>
 <td class="org-left">CAN /Pi</td>
 <td class="org-left">Dual CAN Bridge + MicroPDM</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">Partial hardware in house need to order MicroPDM</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Air Conditioning</td>
@@ -192,12 +204,14 @@ This is my living todo list for the build. Items are roughly in priority order.
 <td class="org-left">Compressor switches sides (was on right and now on left side)</td>
 </tr>
 
+
 <tr>
 <td class="org-left">Fabrication</td>
 <td class="org-left">Customize brackets &amp; Mounts</td>
 <td class="org-left">Not Started</td>
 <td class="org-left">Mocking up in CAD</td>
 </tr>
+
 
 <tr>
 <td class="org-left">Documentation</td>
